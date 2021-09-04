@@ -21,7 +21,7 @@ High variance : bad result in testing data
 The problem will come with overfitting 
 In Random forest we do some feature Scaling 
 Feature Scaling
-##Feature Scaling
+## Feature Scaling
 is a technique to standardize the independent features present in the data in a fixed range. It is performed during the data pre-processing to handle highly varying magnitudes or values or units. If feature scaling is not done, then a machine learning algorithm tends to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
 Example: If an algorithm is not using the feature scaling method then it can consider the value 3000 meters to be greater than 5 km but that’s actually not true and in this case, the algorithm will give wrong predictions. So, we use Feature Scaling to bring all values to the same magnitudes and thus, tackle this issue.
 
