@@ -1,7 +1,7 @@
 # Random-Forest-Algorithm-Machine-Learning
 
-## The Random forest classifier 
-is the group of decision tree 
+## The Random forest classifier and Regressor
+are the group of decision tree 
 In random forest will divide our dataset into small datasets for decision trees 
 Here some features may replicate
 ## Bootstrap 
